@@ -2,7 +2,9 @@
 Hello Everyone , I created this amazing Loan Calculator App with functionalities like
 
 ✅ How much EMI to pay
+
 ✅ Total Interest on Principal Amount
+
 ✅ Total Payable Amount
 
 ✅Added Visual Representation of Total Interest and Total Amount using Pie Chart
