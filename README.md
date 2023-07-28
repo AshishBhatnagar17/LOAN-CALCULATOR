@@ -14,4 +14,4 @@ Hello Everyone , I created this amazing Loan Calculator App with functionalities
 To use the App , Click on the link below 👇👇
 
 
-LINK -> https://ashishbhatnagar17.github.io/Loan-Calculator/
+LINK -> https://ashishbhatnagar17.github.io/LOAN-CALCULATOR/
